@@ -12,17 +12,17 @@ This is an event bus designed to allowing your javafx application to communicate
 [AndroidKnife/RxBus](https://github.com/AndroidKnife/RxBus)
 
 
-Usage
+Usage(Not implement)
 --------
 
 Add dependency to your gradle file:
 ```groovy
-compile 'com.wantfast.fxbus:fxbus:1.0.0'
+compile 'com.wantfast.fx:fxbus:1.0.0'
 ```
 Or maven:
 ``` xml
 <dependency>
-  <groupId>com.wantfast.fxbus</groupId>
+  <groupId>com.wantfast.fx</groupId>
   <artifactId>fxbus</artifactId>
   <version>1.0.0</version>
 </dependency>
