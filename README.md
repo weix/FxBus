@@ -1,5 +1,9 @@
 FxBus - An event bus from [RxBus](https://github.com/AndroidKnife/RxBus) by [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) for javaFx
 =============================
+
+[![Build Status](https://travis-ci.org/weix/FxBus.svg?branch=master)](https://travis-ci.org/weix/FxBus)
+
+
 This is an event bus designed to allowing your javafx application to communicate efficiently.
 
 
